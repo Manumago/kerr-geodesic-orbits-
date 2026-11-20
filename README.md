@@ -2,7 +2,7 @@
 
 **General relativity | Numerical methods | Universidad de Antioquia | 2025**  
 **Author:** Manuela Marín Gómez  
-**Context:** Individual computational project for *Celestial Mechanics*, taught by Prof. Jorge I. Zuluaga.
+**Context:** Individual computational project for *Relativity*, taught by Prof. Jorge I. Zuluaga.
 
 > **Portfolio version — under review.** This repository organizes the original 2025 course notebook. Several implementation details, especially the sign of retrograde orbital angular velocity and the coordinate visualization, should be checked before treating all plots as physically validated. See [`REVIEW_NOTES.md`](REVIEW_NOTES.md).
 
